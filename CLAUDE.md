@@ -104,4 +104,4 @@ lib/
 - No API routes -- all data fetched directly from Sui RPC
 - No test framework -- manual testing only
 - Private repo (not published to npm)
-- Not a standalone git repo (no remote configured)
+- Repository: https://github.com/ARZER-TW/suistody-dashboard (private). CI: GitHub Actions.
